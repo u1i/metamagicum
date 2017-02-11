@@ -1,0 +1,280 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 FINAL//EN">
+<HTML>
+<HEAD>
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=ISO-8859-1">
+<META NAME="Author" CONTENT="Uli Hitzel">
+<META NAME="Generator" CONTENT="NetObjects Fusion 4.0 for Windows">
+<TITLE>Cyrano</TITLE>
+</HEAD>
+<BODY BGCOLOR="#FFFFFF" BACKGROUND="../mm/images/tb3.gif" LINK="#0000FF" VLINK="#800080" TEXT="#000000" TOPMARGIN=0 LEFTMARGIN=0 MARGINWIDTH=0 MARGINHEIGHT=0>
+    <TABLE CELLPADDING=0 CELLSPACING=0 BORDER=0 WIDTH=700>
+        <TR VALIGN=TOP ALIGN=LEFT>
+            <TD>
+                <TABLE BORDER=0 CELLSPACING=0 CELLPADDING=0 WIDTH=88>
+                    <TR VALIGN=TOP ALIGN=LEFT>
+                        <TD WIDTH=21 HEIGHT=234><IMG SRC="../mm/images/autogen/clearpixel.gif" WIDTH=21 HEIGHT=1 BORDER=0></TD>
+                        <TD WIDTH=5><IMG SRC="../mm/images/autogen/clearpixel.gif" WIDTH=5 HEIGHT=1 BORDER=0></TD>
+                        <TD></TD>
+                        <TD WIDTH=3><IMG SRC="../mm/images/autogen/clearpixel.gif" WIDTH=3 HEIGHT=1 BORDER=0></TD>
+                        <TD WIDTH=23><IMG SRC="../mm/images/autogen/clearpixel.gif" WIDTH=23 HEIGHT=1 BORDER=0></TD>
+                    </TR>
+                    <TR VALIGN=TOP ALIGN=LEFT>
+                        <TD COLSPAN=2 HEIGHT=9></TD>
+                        <TD WIDTH=36 ALIGN=LEFT VALIGN=TOP><A HREF="../index.html"><IMG ID="Bild42" HEIGHT=9 WIDTH=36 SRC="../mm/images/home.gif" BORDER=0></A></TD>
+                        <TD COLSPAN=2></TD>
+                    </TR>
+                    <TR VALIGN=TOP ALIGN=LEFT>
+                        <TD COLSPAN=5 HEIGHT=3></TD>
+                    </TR>
+                    <TR VALIGN=TOP ALIGN=LEFT>
+                        <TD HEIGHT=321></TD>
+                        <TD WIDTH=67 COLSPAN=4 ALIGN=LEFT VALIGN=TOP><IMG ID="Picture9" HEIGHT=321 WIDTH=67 SRC="../mm/images/men1.jpg" BORDER=0 USEMAP="#map1"><MAP NAME="map1"><AREA SHAPE=RECT ALT="" COORDS="0,64,66,131"
+                             HREF="../mm/fundgrube.html"><AREA SHAPE=RECT ALT="" COORDS="1,0,67,64" HREF="../mm/cyrano.html"><AREA SHAPE=RECT ALT="" COORDS="0,131,67,194" HREF="../mm/lyrik.html"><AREA SHAPE=RECT ALT="" COORDS="1,194,67,262"
+                             HREF="../mm/magica.html"><AREA SHAPE=RECT ALT="" COORDS="1,260,67,319" HREF="../mm/links.html"></MAP></TD>
+                    </TR>
+                    <TR VALIGN=TOP ALIGN=LEFT>
+                        <TD COLSPAN=5 HEIGHT=2></TD>
+                    </TR>
+                    <TR VALIGN=TOP ALIGN=LEFT>
+                        <TD WIDTH=65 HEIGHT=61 COLSPAN=4 ALIGN=LEFT VALIGN=TOP><IMG ID="Picture6" HEIGHT=61 WIDTH=65 SRC="../mm/images/c_unten.jpg" BORDER=0></TD>
+                        <TD></TD>
+                    </TR>
+                    <TR VALIGN=TOP ALIGN=LEFT>
+                        <TD WIDTH=65 HEIGHT=500 COLSPAN=4 ALIGN=LEFT VALIGN=TOP><IMG ID="Picture7" HEIGHT=500 WIDTH=65 SRC="../mm/images/blsd1.gif" BORDER=0></TD>
+                        <TD></TD>
+                    </TR>
+                </TABLE>
+            </TD>
+            <TD>
+                <TABLE BORDER=0 CELLSPACING=0 CELLPADDING=0 WIDTH=612>
+                    <TR VALIGN=TOP ALIGN=LEFT>
+                        <TD WIDTH=383 HEIGHT=26><IMG SRC="../mm/images/autogen/clearpixel.gif" WIDTH=383 HEIGHT=1 BORDER=0></TD>
+                        <TD></TD>
+                    </TR>
+                    <TR VALIGN=TOP ALIGN=LEFT>
+                        <TD HEIGHT=25></TD>
+                        <TD WIDTH=229 ALIGN=LEFT VALIGN=TOP><A HREF="../index.html"><IMG ID="Picture5" HEIGHT=25 WIDTH=229 SRC="../mm/images/mm2.gif" BORDER=0></A></TD>
+                    </TR>
+                </TABLE>
+                <TABLE BORDER=0 CELLSPACING=0 CELLPADDING=0 WIDTH=612>
+                    <TR VALIGN=TOP ALIGN=LEFT>
+                        <TD WIDTH=22 HEIGHT=59><IMG SRC="../mm/images/autogen/clearpixel.gif" WIDTH=22 HEIGHT=1 BORDER=0></TD>
+                        <TD></TD>
+                    </TR>
+                    <TR VALIGN=TOP ALIGN=LEFT>
+                        <TD HEIGHT=993></TD>
+                        <TD WIDTH=590>
+                            <TABLE CELLPADDING=0 CELLSPACING=0 BORDER=0 WIDTH=590>
+                                <TR VALIGN=TOP ALIGN=LEFT>
+                                    <TD>
+                                        <TABLE BORDER=0 CELLSPACING=0 CELLPADDING=0 WIDTH=218>
+                                            <TR VALIGN=TOP ALIGN=LEFT>
+                                                <TD WIDTH=9 HEIGHT=12><IMG SRC="../mm/images/autogen/clearpixel.gif" WIDTH=9 HEIGHT=1 BORDER=0></TD>
+                                                <TD WIDTH=32><IMG SRC="../mm/images/autogen/clearpixel.gif" WIDTH=32 HEIGHT=1 BORDER=0></TD>
+                                                <TD></TD>
+                                                <TD WIDTH=69><IMG SRC="../mm/images/autogen/clearpixel.gif" WIDTH=69 HEIGHT=1 BORDER=0></TD>
+                                            </TR>
+                                            <TR VALIGN=TOP ALIGN=LEFT>
+                                                <TD COLSPAN=2 HEIGHT=34></TD>
+                                                <TD WIDTH=108 ALIGN=LEFT VALIGN=TOP><IMG ID="Bild10" HEIGHT=34 WIDTH=108 SRC="../mm/images/cy.gif" BORDER=0></TD>
+                                                <TD></TD>
+                                            </TR>
+                                            <TR VALIGN=TOP ALIGN=LEFT>
+                                                <TD COLSPAN=4 HEIGHT=27></TD>
+                                            </TR>
+                                            <TR VALIGN=TOP ALIGN=LEFT>
+                                                <TD HEIGHT=484></TD>
+                                                <TD WIDTH=209 COLSPAN=3 ALIGN=LEFT VALIGN=TOP><IMG ID="Bild43" HEIGHT=484 WIDTH=209 SRC="../mm/images/cy_git1.jpg" BORDER=0></TD>
+                                            </TR>
+                                        </TABLE>
+                                    </TD>
+                                    <TD>
+                                        <TABLE BORDER=0 CELLSPACING=0 CELLPADDING=0 WIDTH=83>
+                                            <TR VALIGN=TOP ALIGN=LEFT>
+                                                <TD WIDTH=7 HEIGHT=71><IMG SRC="../mm/images/autogen/clearpixel.gif" WIDTH=7 HEIGHT=1 BORDER=0></TD>
+                                                <TD WIDTH=76><IMG SRC="../mm/images/autogen/clearpixel.gif" WIDTH=76 HEIGHT=1 BORDER=0></TD>
+                                            </TR>
+                                            <TR VALIGN=TOP ALIGN=LEFT>
+                                                <TD></TD>
+                                                <TD WIDTH=76><P ALIGN=RIGHT><B>Name<BR></B>Uli<P ALIGN=RIGHT><B>Geboren<BR></B>10. Juni 1974 in Würzburg<P ALIGN=RIGHT><B>Wohnort<BR></B>Mannheim,<BR>Deutschland<P ALIGN=RIGHT><B>Interessen<BR></B>
+                                                    Musik<BR>Lesen<BR>Kino<BR>Kochen<BR>Design<BR>Schrift<BR>Online<BR>Medien<BR>Kultur<BR>Philosophie<BR>Sprache<BR>Werbung<BR>&nbsp;</TD>
+                                            </TR>
+                                        </TABLE>
+                                    </TD>
+                                    <TD>
+                                        <TABLE BORDER=0 CELLSPACING=0 CELLPADDING=0 WIDTH=22>
+                                            <TR VALIGN=TOP ALIGN=LEFT>
+                                                <TD WIDTH=20 HEIGHT=43><IMG SRC="../mm/images/autogen/clearpixel.gif" WIDTH=20 HEIGHT=1 BORDER=0></TD>
+                                                <TD></TD>
+                                            </TR>
+                                            <TR VALIGN=TOP ALIGN=LEFT>
+                                                <TD HEIGHT=610></TD>
+                                                <TD WIDTH=2><IMG ID="Rechteck4" HEIGHT=610 WIDTH=2 SRC="../mm/images/autogen/a_Rectangle_4.gif" BORDER=0></TD>
+                                            </TR>
+                                        </TABLE>
+                                    </TD>
+                                    <TD>
+                                        <TABLE BORDER=0 CELLSPACING=0 CELLPADDING=0 WIDTH=119>
+                                            <TR VALIGN=TOP ALIGN=LEFT>
+                                                <TD WIDTH=18 HEIGHT=45><IMG SRC="../mm/images/autogen/clearpixel.gif" WIDTH=18 HEIGHT=1 BORDER=0></TD>
+                                                <TD></TD>
+                                            </TR>
+                                            <TR VALIGN=TOP ALIGN=LEFT>
+                                                <TD HEIGHT=16></TD>
+                                                <TD WIDTH=101 ALIGN=LEFT VALIGN=TOP><A HREF="../mm/cyrano_.html"><IMG ID="Bild11" HEIGHT=16 WIDTH=101 SRC="../mm/images/cywho.gif" BORDER=0></A></TD>
+                                            </TR>
+                                        </TABLE>
+                                        <TABLE CELLPADDING=0 CELLSPACING=0 BORDER=0 WIDTH=259>
+                                            <TR VALIGN=TOP ALIGN=LEFT>
+                                                <TD>
+                                                    <TABLE BORDER=0 CELLSPACING=0 CELLPADDING=0 WIDTH=177>
+                                                        <TR VALIGN=TOP ALIGN=LEFT>
+                                                            <TD WIDTH=17 HEIGHT=12><IMG SRC="../mm/images/autogen/clearpixel.gif" WIDTH=17 HEIGHT=1 BORDER=0></TD>
+                                                            <TD WIDTH=160><IMG SRC="../mm/images/autogen/clearpixel.gif" WIDTH=160 HEIGHT=1 BORDER=0></TD>
+                                                        </TR>
+                                                        <TR VALIGN=TOP ALIGN=LEFT>
+                                                            <TD></TD>
+                                                            <TD WIDTH=160><P><TT>Was wie? Cyrano? Wer soll das sein? Ich dachte der Typ hier heisst Uli?<BR>Hier die Aufklärung.</TT></TD>
+                                                        </TR>
+                                                    </TABLE>
+                                                </TD>
+                                                <TD>
+                                                    <TABLE BORDER=0 CELLSPACING=0 CELLPADDING=0 WIDTH=82>
+                                                        <TR VALIGN=TOP ALIGN=LEFT>
+                                                            <TD WIDTH=12 HEIGHT=12><IMG SRC="../mm/images/autogen/clearpixel.gif" WIDTH=12 HEIGHT=1 BORDER=0></TD>
+                                                            <TD></TD>
+                                                        </TR>
+                                                        <TR VALIGN=TOP ALIGN=LEFT>
+                                                            <TD HEIGHT=99></TD>
+                                                            <TD WIDTH=70 ALIGN=LEFT VALIGN=TOP><A HREF="../mm/cyrano_.html"><IMG ID="Bild13" HEIGHT=99 WIDTH=70 SRC="../mm/images/sb_cyrano.jpg" BORDER=0></A></TD>
+                                                        </TR>
+                                                    </TABLE>
+                                                </TD>
+                                            </TR>
+                                        </TABLE>
+                                        <TABLE BORDER=0 CELLSPACING=0 CELLPADDING=0 WIDTH=61>
+                                            <TR VALIGN=TOP ALIGN=LEFT>
+                                                <TD WIDTH=17 HEIGHT=19><IMG SRC="../mm/images/autogen/clearpixel.gif" WIDTH=17 HEIGHT=1 BORDER=0></TD>
+                                                <TD></TD>
+                                            </TR>
+                                            <TR VALIGN=TOP ALIGN=LEFT>
+                                                <TD HEIGHT=13></TD>
+                                                <TD WIDTH=44 ALIGN=LEFT VALIGN=TOP><A HREF="../mm/musik.html"><IMG ID="Bild14" HEIGHT=13 WIDTH=44 SRC="../mm/images/cymusic.gif" BORDER=0></A></TD>
+                                            </TR>
+                                        </TABLE>
+                                        <TABLE CELLPADDING=0 CELLSPACING=0 BORDER=0 WIDTH=251>
+                                            <TR VALIGN=TOP ALIGN=LEFT>
+                                                <TD>
+                                                    <TABLE BORDER=0 CELLSPACING=0 CELLPADDING=0 WIDTH=157>
+                                                        <TR VALIGN=TOP ALIGN=LEFT>
+                                                            <TD WIDTH=17 HEIGHT=18><IMG SRC="../mm/images/autogen/clearpixel.gif" WIDTH=17 HEIGHT=1 BORDER=0></TD>
+                                                            <TD WIDTH=140><IMG SRC="../mm/images/autogen/clearpixel.gif" WIDTH=140 HEIGHT=1 BORDER=0></TD>
+                                                        </TR>
+                                                        <TR VALIGN=TOP ALIGN=LEFT>
+                                                            <TD></TD>
+                                                            <TD WIDTH=140><P><TT>Musik ist ein wichtiges Thema für Cyrano. Er schreibt selbst Songs und Klavierstücke.</TT></TD>
+                                                        </TR>
+                                                    </TABLE>
+                                                </TD>
+                                                <TD>
+                                                    <TABLE BORDER=0 CELLSPACING=0 CELLPADDING=0 WIDTH=94>
+                                                        <TR VALIGN=TOP ALIGN=LEFT>
+                                                            <TD WIDTH=19 HEIGHT=22><IMG SRC="../mm/images/autogen/clearpixel.gif" WIDTH=19 HEIGHT=1 BORDER=0></TD>
+                                                            <TD></TD>
+                                                        </TR>
+                                                        <TR VALIGN=TOP ALIGN=LEFT>
+                                                            <TD HEIGHT=75></TD>
+                                                            <TD WIDTH=75 ALIGN=LEFT VALIGN=TOP><A HREF="../mm/musik.html"><IMG ID="Bild15" HEIGHT=75 WIDTH=75 SRC="../mm/images/klavier_1.jpg" BORDER=0></A></TD>
+                                                        </TR>
+                                                    </TABLE>
+                                                </TD>
+                                            </TR>
+                                        </TABLE>
+                                        <TABLE CELLPADDING=0 CELLSPACING=0 BORDER=0 WIDTH=267>
+                                            <TR VALIGN=TOP ALIGN=LEFT>
+                                                <TD>
+                                                    <TABLE BORDER=0 CELLSPACING=0 CELLPADDING=0 WIDTH=152>
+                                                        <TR VALIGN=TOP ALIGN=LEFT>
+                                                            <TD WIDTH=17 HEIGHT=34><IMG SRC="../mm/images/autogen/clearpixel.gif" WIDTH=17 HEIGHT=1 BORDER=0></TD>
+                                                            <TD WIDTH=1><IMG SRC="../mm/images/autogen/clearpixel.gif" WIDTH=1 HEIGHT=1 BORDER=0></TD>
+                                                            <TD WIDTH=2><IMG SRC="../mm/images/autogen/clearpixel.gif" WIDTH=2 HEIGHT=1 BORDER=0></TD>
+                                                            <TD></TD>
+                                                            <TD WIDTH=13><IMG SRC="../mm/images/autogen/clearpixel.gif" WIDTH=13 HEIGHT=1 BORDER=0></TD>
+                                                            <TD WIDTH=96><IMG SRC="../mm/images/autogen/clearpixel.gif" WIDTH=96 HEIGHT=1 BORDER=0></TD>
+                                                        </TR>
+                                                        <TR VALIGN=TOP ALIGN=LEFT>
+                                                            <TD HEIGHT=15></TD>
+                                                            <TD WIDTH=39 COLSPAN=4 ALIGN=LEFT VALIGN=TOP><A HREF="../mm/lyrik1.html"><IMG ID="Bild45" HEIGHT=15 WIDTH=39 SRC="../mm/images/cy_ly1.gif" BORDER=0></A></TD>
+                                                            <TD></TD>
+                                                        </TR>
+                                                        <TR VALIGN=TOP ALIGN=LEFT>
+                                                            <TD COLSPAN=6 HEIGHT=11></TD>
+                                                        </TR>
+                                                        <TR VALIGN=TOP ALIGN=LEFT>
+                                                            <TD></TD>
+                                                            <TD WIDTH=135 COLSPAN=5><P><TT>Ein kleine Auswahl eigener Werke</TT></TD>
+                                                        </TR>
+                                                        <TR VALIGN=TOP ALIGN=LEFT>
+                                                            <TD COLSPAN=6 HEIGHT=38></TD>
+                                                        </TR>
+                                                        <TR VALIGN=TOP ALIGN=LEFT>
+                                                            <TD COLSPAN=3 HEIGHT=16></TD>
+                                                            <TD WIDTH=23 ALIGN=LEFT VALIGN=TOP><A HREF="../mm/job.html"><IMG ID="Bild31" HEIGHT=16 WIDTH=23 SRC="../mm/images/cyjob.gif" BORDER=0></A></TD>
+                                                            <TD COLSPAN=2></TD>
+                                                        </TR>
+                                                        <TR VALIGN=TOP ALIGN=LEFT>
+                                                            <TD COLSPAN=6 HEIGHT=11></TD>
+                                                        </TR>
+                                                        <TR VALIGN=TOP ALIGN=LEFT>
+                                                            <TD COLSPAN=2></TD>
+                                                            <TD WIDTH=134 COLSPAN=4><P><TT>Heutzutage kommt man ohne Arbeit nicht besonders weit. Was Cyrano wohl so macht?</TT></TD>
+                                                        </TR>
+                                                    </TABLE>
+                                                </TD>
+                                                <TD>
+                                                    <TABLE BORDER=0 CELLSPACING=0 CELLPADDING=0 WIDTH=115>
+                                                        <TR VALIGN=TOP ALIGN=LEFT>
+                                                            <TD WIDTH=2 HEIGHT=39><IMG SRC="../mm/images/autogen/clearpixel.gif" WIDTH=2 HEIGHT=1 BORDER=0></TD>
+                                                            <TD WIDTH=17><IMG SRC="../mm/images/autogen/clearpixel.gif" WIDTH=17 HEIGHT=1 BORDER=0></TD>
+                                                            <TD WIDTH=83><IMG SRC="../mm/images/autogen/clearpixel.gif" WIDTH=83 HEIGHT=1 BORDER=0></TD>
+                                                            <TD WIDTH=13><IMG SRC="../mm/images/autogen/clearpixel.gif" WIDTH=13 HEIGHT=1 BORDER=0></TD>
+                                                        </TR>
+                                                        <TR VALIGN=TOP ALIGN=LEFT>
+                                                            <TD COLSPAN=2 HEIGHT=78></TD>
+                                                            <TD WIDTH=96 COLSPAN=2 ALIGN=LEFT VALIGN=TOP><A HREF="../mm/lyrik1.html"><IMG ID="Bild44" HEIGHT=78 WIDTH=96 SRC="../mm/images/feder.gif" BORDER=0></A></TD>
+                                                        </TR>
+                                                        <TR VALIGN=TOP ALIGN=LEFT>
+                                                            <TD COLSPAN=4 HEIGHT=63></TD>
+                                                        </TR>
+                                                        <TR VALIGN=TOP ALIGN=LEFT>
+                                                            <TD HEIGHT=63></TD>
+                                                            <TD WIDTH=100 COLSPAN=2 ALIGN=LEFT VALIGN=TOP><A HREF="../mm/job.html"><IMG ID="Bild30" HEIGHT=63 WIDTH=100 SRC="../mm/images/cyjob.jpg" BORDER=0></A></TD>
+                                                            <TD></TD>
+                                                        </TR>
+                                                    </TABLE>
+                                                </TD>
+                                            </TR>
+                                        </TABLE>
+                                    </TD>
+                                </TR>
+                            </TABLE>
+                        </TD>
+                    </TR>
+                </TABLE>
+                <TABLE BORDER=0 CELLSPACING=0 CELLPADDING=0>
+                    <TR VALIGN=TOP ALIGN=LEFT>
+                        <TD WIDTH=22 HEIGHT=45><IMG SRC="../mm/images/autogen/clearpixel.gif" WIDTH=22 HEIGHT=1 BORDER=0></TD>
+                        <TD></TD>
+                    </TR>
+                    <TR VALIGN=TOP ALIGN=LEFT>
+                        <TD></TD>
+                        <TD NOWRAP> [<A HREF="../index.html">Metamagicum</A>]  [<A HREF="../mm/cyrano.html">Cyrano</A>]  [<A HREF="../mm/fundgrube.html">Fundgrube</A>]  [<A HREF="../mm/lyrik.html">Lyrik</A>]  [<A HREF="../mm/magica.html">Magica</A>]
+                              [<A HREF="../mm/links.html">Links</A>]  [<A HREF="../chat/index.html">Chat</A>] </TD>
+                    </TR>
+                </TABLE>
+            </TD>
+        </TR>
+    </TABLE>
+</BODY>
+</HTML>
+ 
